@@ -1,10 +1,13 @@
 # Motocycle-detect
 ## Python 3.10.9
-##  Lilbray reqiure
-opencv-python
+##  Lilbrary reqiure
+opencv-python and ultralytics
 
-ultralytics
+-----------------------------------------------------
+## if not work install  this library
 
-tourch
+tourch and tourchvisions
 
-tourchvisions
+-----------------------------------------------------
+## This  Code Detect Class 0 and 3 if you would like to detect all change parameter
+consider_classes = None 
